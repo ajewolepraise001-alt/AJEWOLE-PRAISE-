@@ -18,7 +18,7 @@ I'm currently learning Data Analysis and building practical projects to develop 
 
 My first Data Analyst portfolio project using WPS Spreadsheet. I analyzed sales data, performed calculations, created Pivot Tables, and generated business insights.
 
-👉 Check out my [Sales Data Analysis project](../Sales-data-analysis-)
+👉 👉 [View my Sales Data Analysis project](https://github.com/ajewolepraise001-alt/Sales-data-analysis-)
 
 ### 🎯 My Goal
 
